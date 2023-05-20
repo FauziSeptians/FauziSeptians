@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&size=26&pause=1000&color=F7F7F7&vCenter=true&width=435&height=30&lines=Muhammad+Fauzi+Septiana+Putra" alt="Typing SVG" /></a>
 <br>
-**`Student In Bina Nusantara | Scholarship Holder`**
+**`Student in Bina Nusantara University | Scholarship Holder`**
 
 
 ### About Me
