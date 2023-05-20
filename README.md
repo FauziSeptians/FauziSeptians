@@ -1,4 +1,8 @@
-### Hi there 👋
+### <a style="font-family: 'Poppins'">Hii, GUYS</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=F7F7F7&width=435&lines=My+name+is+Muhammad+Fauzi+Septiana+Putra+%F0%9F%91%8B" alt="Typing SVG" /></a>
+
+
+
 
 <!--
 **FauziSeptians/FauziSeptians** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
