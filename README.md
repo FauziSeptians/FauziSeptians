@@ -1,4 +1,4 @@
-<img href="https://media.licdn.com/dms/image/C4D16AQH2ye3Ajo8V_A/profile-displaybackgroundimage-shrink_350_1400/0/1632543944517?e=1689811200&v=beta&t=dQilXvQJsavD_Thtcgy_KgRcYgRUF9ngE_DqbYFoSrI"></img>
+<img src="/banner.jfif"></img>
 
 # 🧑‍💻 Muhammad Fauzi Septiana Putra
 **`Student In Bina Nusantara | Scholarship Holder`**
@@ -40,6 +40,12 @@ Hi, My name is Muhammad Fauzi Septiana Putra. My hobby is playing footbal, video
 [<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/>](https://github.com/FauziSeptians)
 </br>
 #
+
+
+## Github Stats
+![FauziSeptians's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FauziSeptians&theme=radical&show_icons=true&hide_border=false&layout=compact)
+
+
 <!--
 **FauziSeptians/FauziSeptians** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
