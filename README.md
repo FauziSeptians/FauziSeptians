@@ -15,7 +15,7 @@ Hi, My name is Muhammad Fauzi Septiana Putra. My hobby is playing footbal, video
 </ul>
 
    
-### 🧰 Languages and Tools
+### Programming Languages
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />             
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />          
@@ -32,8 +32,11 @@ Hi, My name is Muhammad Fauzi Septiana Putra. My hobby is playing footbal, video
 
 #
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCe-PW_N8mDRpF9uz5oOrdsA)
+### Social Media
+[<img width="30px" style="padding-right:10px;" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png"/>](https://instagram.com/fauziseptians?igshid=MzNlNGNkZWQ4Mg==)
+[<img width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/muhammadfauzi14/)
 
+#
 
 
 <!--
