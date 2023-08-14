@@ -6,7 +6,7 @@
 
 
 ### About Me
-Hi, My name is Muhammad Fauzi Septiana Putra. My hobby is playing footbal, video games, and create some application. I am currently pursuing education in the field of Computer Science / Informatics Engineering at the BCA Scholarship Program (PPTI)
+Hi, My name is Muhammad Fauzi Septiana Putra. My hobby is playing footbal, video games, and create some application. I am currently pursuing education in the field of Computer Science / Informatics Engineering at the BCA Scholarship Program (PPTI). I am interested in the field of informatics, especially in the development of web applications, mobile applications and data.
 
 ### Education Background
 <ul>
