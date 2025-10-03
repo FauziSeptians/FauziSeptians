@@ -44,7 +44,11 @@ Hi, My name is Muhammad Fauzi Septiana Putra. My hobby is playing footbal, video
 
 
 ## Github Stats
-![FauziSeptians's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FauziSeptians&theme=radical&show_icons=true&hide_border=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FauziSeptians&theme=default&show_icons=true&hide_border=true&layout=compact" alt="FauziSeptians's GitHub Stats" />
+
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/FauziSeptians/contributions)
+
+<img src="https://streak-stats.demolab.com?user=FauziSeptians&theme=default&hide_border=true" alt="FauziSeptians's GitHub Stats" />
 
 
 <!--
